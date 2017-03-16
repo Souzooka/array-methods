@@ -44,3 +44,5 @@ gemBox.splice(5, 2);
 upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
 
 brownOnly.splice(1, 6, "brown", "brown", "brown", "brown");
+
+orderedValues.unshift(1, 2, 3);
