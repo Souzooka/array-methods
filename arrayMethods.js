@@ -40,3 +40,5 @@ var notFruit = fruitCollection.splice(1, 3);
 
 gemBox.splice(8);
 gemBox.splice(5, 2);
+
+upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
