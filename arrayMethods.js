@@ -26,3 +26,5 @@ while (genericNumberArray.length < 10) {
 }
 
 var popResult = colors.pop();
+
+scrambledWords.reverse();
